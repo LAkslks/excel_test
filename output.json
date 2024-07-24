@@ -1,0 +1,92 @@
+[
+    {
+        "catalog": "Иномарки",
+        "category": "None",
+        "art": "боковое",
+        "oldcode": "8534LGNS4FD",
+        "eurocode": "4039993",
+        "name": "6998500",
+        "price": "1995"
+    },
+    {
+        "catalog": "Иномарки",
+        "category": "AUDI",
+        "art": "None",
+        "oldcode": "None",
+        "eurocode": "None",
+        "name": "None",
+        "price": "None"
+    },
+    {
+        "catalog": "Иномарки",
+        "category": "None",
+        "art": "ветровое",
+        "oldcode": "8604AGSGYMVWZ1C",
+        "eurocode": "4032164",
+        "name": "6965235",
+        "price": "2018"
+    },
+    {
+        "catalog": "Иномарки",
+        "category": "None",
+        "art": "ветровое",
+        "oldcode": "8604AGSGYMVWZ95",
+        "eurocode": "4032991",
+        "name": "6966348",
+        "price": "2018"
+    },
+    {
+        "catalog": "Иномарки",
+        "category": "AUDI",
+        "art": "None",
+        "oldcode": "None",
+        "eurocode": "None",
+        "name": "None",
+        "price": "None"
+    },
+    {
+        "catalog": "Отечественные",
+        "category": "заднее",
+        "art": "4038677",
+        "oldcode": "6996075",
+        "eurocode": "4549BGSE",
+        "name": "ВАЗ 1117 LADA KALINA I/2194 KALINA II СТЕКЛО ЗАДНЕЕ ЗЕЛЕНОЕ OVERTINTED - С ОБОГРЕВОМ",
+        "price": "2657.82423038729"
+    },
+    {
+        "catalog": "Отечественные",
+        "category": "боковое",
+        "art": "4038678",
+        "oldcode": "6996079",
+        "eurocode": "4549RGSE5RD",
+        "name": "ВАЗ 1117 LADA KALINA I/2194 KALINA II СТЕКЛО ЗАДНЕЙ ДВЕРИ ОПУСКНОЕ ПРАВОЕ ЗЕЛЕНОЕ OVERTINTED",
+        "price": "796.8170666842105"
+    },
+    {
+        "catalog": "Отечественные",
+        "category": "боковое",
+        "art": "4038679",
+        "oldcode": "6996080",
+        "eurocode": "4549LGSE5RD",
+        "name": "ВАЗ 1117 LADA KALINA I/2194 KALINA II СТЕКЛО ЗАДНЕЙ ДВЕРИ ОПУСКНОЕ ЛЕВОЕ ЗЕЛЕНОЕ OVERTINTED",
+        "price": "796.8170666842105"
+    },
+    {
+        "catalog": "Отечественные",
+        "category": "ВАЗ",
+        "art": "None",
+        "oldcode": "None",
+        "eurocode": "None",
+        "name": "ВАЗ 1118 - Калина(седан)",
+        "price": "None"
+    },
+    {
+        "catalog": "Отечественные",
+        "category": "ветровое",
+        "art": "4029887",
+        "oldcode": "6961537",
+        "eurocode": "4549AGS",
+        "name": "ВАЗ 1117/1118/1119 LADA KALINA I СТЕКЛО ВЕТРОВОЕ ЗЕЛЕНОЕ OVERTINTED",
+        "price": "2978.2547164726316"
+    }
+]
